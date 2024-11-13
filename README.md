@@ -31,8 +31,9 @@
  **<h3 align="left">Top Repo</h3>**
  | Repository  | Description |
 |---------|----------------|
-| [Kanban board API][https://github.com/duckmahn/jira-clone-api] | ASP.NET API for a simple kanban board |
-| [More...][https://github.com/duckmahn/] | something else |
+| [Kanban board API](https://github.com/duckmahn/jira-clone-api) | ASP.NET API for a simple kanban board |
+| [Infinite Photo Gallary](https://github.com/duckmahn/infinite-photo-gallery) | Photo gallery that can scroll infinitely |
+| [Devil boy - The Game](https://github.com/duckmahn/devilboy) | A RPG game made from scraps with Java |
  
  **<h3 align="left">GitHub Stats</h3>**
 
