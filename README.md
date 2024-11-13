@@ -20,9 +20,9 @@
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **💻 Developing a new e-commerce platform using React and C#**
-- 🌱 I'm currently learning: **📚 Exploring CI/CD, self-hosting**
+- 🌱 I'm currently learning: **📚 Exploring CI/CD, self-hosting, DevOps**
 - 💬 Ask me about: **💡 JavaScript, React, and RESTful APIs**
-- ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
+- ⚡ Fun fact: 
 
  **<h3 align="left">Skills</h3>**
 
